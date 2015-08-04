@@ -1,0 +1,16 @@
+#leftbanner {
+	
+	display: inline-block;
+	width: 250px;
+	float: left;
+	
+
+}
+
+#content {
+	display: inline-block;
+	width: 800px;
+	float: right;
+	
+
+}

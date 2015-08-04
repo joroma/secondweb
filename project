@@ -1,0 +1,12 @@
+<NotepadPlus>
+    <Project name="secondweb">
+        <Folder name="assets">
+            <File name="assets\download.png" />
+            <File name="assets\logo.png" />
+        </Folder>
+        <File name="main.css" />
+        <File name="main.html" />
+        <File name="project" />
+        <File name="README.md" />
+    </Project>
+</NotepadPlus>
