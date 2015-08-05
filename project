@@ -5,8 +5,8 @@
             <File name="assets\logo.png" />
         </Folder>
         <File name="main.css" />
-        <File name="main.html" />
         <File name="project" />
         <File name="README.md" />
+        <File name="index.html" />
     </Project>
 </NotepadPlus>
